@@ -1,0 +1,2 @@
+# Hunchos-AI
+Zaawansowany bot
